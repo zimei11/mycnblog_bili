@@ -1,0 +1,3 @@
+<script type="text/javascript" src="https://cdn.bootcss.com/clipboard.js/2.0.4/clipboard.min.js"></script>
+<script type="text/javascript" src="https://cdn.staticfile.org/vue/2.2.2/vue.min.js"></script>
+<script type="text/javascript" src="https://blog-static.cnblogs.com/files/gshang/gshang.bili.2020.03.10.6.js"></script>

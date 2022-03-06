@@ -1,0 +1,94 @@
+
+<script>
+$.gshang({
+  favicon:"https://pic.cnblogs.com/avatar/1489774/20190708183140.png",
+  news:{
+    enable:true,
+    data:[
+    '博客园支持Markdown评论了！主题已经抢先修复样式',
+    '<a href="https://www.cnblogs.com/gshang/p/biliTheme.html#scroller-3">主题已经升级至V2.0.9，点击查看</a>',
+    '武汉加油 🇨🇳 中国加油!',
+    '<a href="https://epi.starsee.cn/">全国疫情趋势AI预测</a>',
+    '<a href="https://j-x.gitee.io/home/yiqing/covid-19">武汉光谷周边小区疫情地图</a>',
+    ]
+  },
+  banner:{
+    enable:true,
+    data:[
+    {
+      url: "https://www.cnblogs.com/gshang/p/12318492.html",
+      img: "https://images.cnblogs.com/cnblogs_com/gshang/1609278/o_200216143950Wuhan.jpg",
+      title: "武汉加油！"
+    },
+    {
+      url: "https://news.ifeng.com/c/special/7tPlDSzDgVk",
+      img: "https://x0.ifengimg.com/ucms/2020_07/7C3B11DC8FF81E8DE68FD4A610F6CB12A0D04ED6_w1125_h483.png",
+      title: "疫情实时动态"
+    },
+    {
+      url:"https://www.cnblogs.com/gshang/p/biliTheme.html",
+      img:"https://img2018.cnblogs.com/blog/1489774/202001/1489774-20200104194952221-337450693.png",
+      title:"博客主题——Bili2.0"
+    },
+    {
+      url: "https://www.cnblogs.com/gshang/p/tools.html",
+      img: "https://www.kanjiantu.com/images/2019/07/05/post169393a677253c679.png",
+      title: "实用工具分享"
+    },
+    {
+      url: "https://www.cnblogs.com/gshang/p/movie.html",
+      img: "https://www.kanjiantu.com/images/2019/07/05/post4242f1ce89576c2f3.png",
+      title: "动画电影分享"
+    },
+    {
+      url: "https://www.cnblogs.com/gshang/p/11185613.html",
+      img: "https://img2018.cnblogs.com/blog/1489774/201909/1489774-20190923190114426-2061049622.png",
+      title: "VIP视频解析"
+    },
+    {
+      url: "https://www.cnblogs.com/gshang/p/11135154.html",
+      img: "https://www.kanjiantu.com/images/2019/07/05/post2b40b83305f79d463.png",
+      title: "常用网站集合"
+    }
+    ]
+  },
+  nav:{
+    enable:true,
+    data: [{
+      id: "blog_nav_cnblogs",
+      url: "https://home.cnblogs.com",
+      title: "园子"
+    },
+    {
+      id: "blog_nav_maintain",
+      url: "https://www.cnblogs.com/gshang/p/11149316.html",
+      title: "维护"
+    },
+    {
+      id: "blog_nav_frieds",
+      url: "https://www.cnblogs.com/gshang/p/11149804.html",
+      title: "友链"
+    },
+    {
+      id: "blog_nav_theme",
+      url: "javascript:changeTheme()",
+      title: "夜间模式"
+    }
+    ]
+  },
+  post:{
+    blankTarget:true,
+    tableScroll:true,
+    copyCode:true,
+    myMarkdown:true
+  },
+  sidebarContent:true,
+  hideSidebar:true,
+  themeInfo:{
+    version:"V2.0.12",
+    page:"",
+    author:"GShang"
+  }
+});
+
+</script>

@@ -8,18 +8,11 @@ $.gshang({
     '博客园支持Markdown评论了！主题已经抢先修复样式',
     '<a href="https://www.cnblogs.com/gshang/p/biliTheme.html#scroller-3">主题已经升级至V2.0.9，点击查看</a>',
     '武汉加油 🇨🇳 中国加油!',
-    '<a href="https://epi.starsee.cn/">全国疫情趋势AI预测</a>',
-    '<a href="https://j-x.gitee.io/home/yiqing/covid-19">武汉光谷周边小区疫情地图</a>',
     ]
   },
   banner:{
     enable:true,
     data:[
-    {
-      url: "https://www.cnblogs.com/gshang/p/12318492.html",
-      img: "https://images.cnblogs.com/cnblogs_com/gshang/1609278/o_200216143950Wuhan.jpg",
-      title: "武汉加油！"
-    },
     {
       url: "https://news.ifeng.com/c/special/7tPlDSzDgVk",
       img: "https://x0.ifengimg.com/ucms/2020_07/7C3B11DC8FF81E8DE68FD4A610F6CB12A0D04ED6_w1125_h483.png",
@@ -31,25 +24,10 @@ $.gshang({
       title:"博客主题——Bili2.0"
     },
     {
-      url: "https://www.cnblogs.com/gshang/p/tools.html",
-      img: "https://www.kanjiantu.com/images/2019/07/05/post169393a677253c679.png",
-      title: "实用工具分享"
+      url:"http://www.zimei.xyz",
+      img:"https://images.cnblogs.com/cnblogs_com/blogs/738987/galleries/2119614/o_220306030303_202201282308685.jpeg",
+      title:"我的知识库"
     },
-    {
-      url: "https://www.cnblogs.com/gshang/p/movie.html",
-      img: "https://www.kanjiantu.com/images/2019/07/05/post4242f1ce89576c2f3.png",
-      title: "动画电影分享"
-    },
-    {
-      url: "https://www.cnblogs.com/gshang/p/11185613.html",
-      img: "https://img2018.cnblogs.com/blog/1489774/201909/1489774-20190923190114426-2061049622.png",
-      title: "VIP视频解析"
-    },
-    {
-      url: "https://www.cnblogs.com/gshang/p/11135154.html",
-      img: "https://www.kanjiantu.com/images/2019/07/05/post2b40b83305f79d463.png",
-      title: "常用网站集合"
-    }
     ]
   },
   nav:{
